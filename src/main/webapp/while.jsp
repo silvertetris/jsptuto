@@ -9,11 +9,11 @@
 <html>
 <head>
     <title>While.jsp</title>
-    <h1>While Example</h1>
+    <h1>힝구리퐁퐁 while문</h1>
 </head>
 <body>
 <%
-    request.setCharacterEncoding("EUC-KR");
+    request.setCharacterEncoding("UTF-8");
     String msg = request.getParameter("msg");
     int number = Integer.parseInt(request.getParameter("number"));
     int count = 0;
