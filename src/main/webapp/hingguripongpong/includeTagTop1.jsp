@@ -14,8 +14,8 @@
 <%
   String name=request.getParameter("name");
 %>
-include ActionTag의 Top입니다.<p/>
-<b><%=name%> Fighting!!!</b>
+위구리퐁퐁<p/>
+<b><%=name%></b>
 <hr/>
 </body>
 </html>
