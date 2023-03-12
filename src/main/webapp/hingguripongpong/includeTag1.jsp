@@ -12,11 +12,10 @@
 </head>
 <%
   request.setCharacterEncoding("UTF-8");
-  String name="Korea Football";
 %>
 <body>
 <h1>Include Tag Example1</h1>
 <jsp:include page="includeTagTop1.jsp"/>
-include ActionTag의 Body입니다.
+힝구리퐁퐁 body tag
 </body>
 </html>
